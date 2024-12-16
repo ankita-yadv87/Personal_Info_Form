@@ -10,7 +10,6 @@ lerna-debug.log*
 frontend/node_modules
 backend/config/config.env
 config.env
-config/
 node_modules
 dist
 dist-ssr
